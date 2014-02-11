@@ -1,0 +1,17 @@
+{
+  "name": "pi-aware",
+  "version": "0.1",
+  "description": "Be aware of what happen and react",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabien Evain",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
+}
